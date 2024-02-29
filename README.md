@@ -7,7 +7,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Car Showcase**
+ 🔭 I’m currently working on **Global Innovation Consulting**
  
  🌱 I’m currently learning **Typescript, swift, AWS**
 
